@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'permanent marker';
+    text-align: center;
+    text-shadow: 30px;
+    color: chartreuse;
+    border: 10px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 80px;
+}
+
+body {
+    text-align: center;
+    background: radial-gradient(circle, #0077ea, #1f4f96, #1b2949, #000);
+}
+
+#div1-p1  {
+    font-family: 'permanent marker';
+    font-size: 30px;
+    color: #fff;
+}
+
+.cool-button {
+    background-color: #000; /* Black background color */
+    color: #fff; /* White text color */
+    padding: 10px 20px; /* Adjust padding to your liking */
+    font-size: 26px; /* Adjust font size to your liking */
+    border: none;
+    border-radius: 5px; /* Rounded corners for a modern look */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+  }
+  
+  .cool-button:hover {
+    background-color: green; /* Darker black on hover for a subtle effect */
+  }
+
+  #div2-p1 {
+    font-size: 100px;
+    font-family: "permanent marker";
+  }
